@@ -1,0 +1,11 @@
+product_id,product_name,supplier_id,categories_id,VENDOR_ID,sales_price
+101,"Flex Crossbow",1,10,991,NULL
+102,"Electronic Snap",2,12,441,NULL
+103,"Guillow Airplane",3,103,551,NULL
+104,"Pokemon TCG",4,104,1004,NULL
+105,"LEGO Minecraf",5,118,661,NULL
+106," Sunglasses",6,119,331,NULL
+107,"Magic Books",7,123,771,NULL
+108,"G-shok Watches",8,154,211,NULL
+109,"Wireless bluetooth",9,12,881,NULL
+110,Laptop,10,187,221,NULL
